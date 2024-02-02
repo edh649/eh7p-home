@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+EH7P is a solutions focused software development company. We specialise in web development, particularly the Laravel/Vue.js stack, but have experience in a wide range of software languages and domains.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+We're always on the lookout for new and interesting work, get in touch with us to discuss at [hello@eh7p.com](mailto:hello@eh7p.com)
